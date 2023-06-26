@@ -4,6 +4,12 @@ Thanks for checking out Maxprompts, the open-source repository for the most effe
 
 This is a basic introduction to the repository, more information can be found on the  [wiki](https://github.com/maxprompts/wiki).
 
+graph LR
+A[Generative AI Model] --> B((MP Input))
+A --> C(User Input)
+C ---> F(Uncertain Output)
+B --> D{Improved Output}
+
 ## About Maxprompts
 
 Maxprompts is a collaborative project aimed at collecting and curating a wide range of high-quality prompts for use with language models (LLMs) and text-to-image models. We believe that well-crafted prompts can significantly enhance the output of generative AI models, making them more accurate, creative, and useful.
