@@ -15,6 +15,9 @@ Whether you are a researcher, developer, artist, or simply an enthusiast explori
 
 ## How to Use PromptX
 
+1. Find a prompt you want to use,
+2. Copy, paste, and run the prompt through your desired AI model.
+
 The PromptX repository is organized into different categories and subcategories, covering a wide range of topics and use cases. Each prompt is carefully crafted and documented to ensure its effectiveness. You can browse the repository and explore the prompts that interest you, or you can search for specific keywords to find prompts related to a particular topic.
 
 To use a prompt, simply copy it and paste it into the input of your desired model. Experiment with different prompts, modify them, or combine them to achieve the desired results. Feel free to contribute your own prompts to the repository, share your experiences, and collaborate with the community to improve and expand the collection.
