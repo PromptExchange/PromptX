@@ -2,9 +2,6 @@
 
 ![Logo](https://github.com/maxcsonderby/PromptX/blob/main/download.png)
 
-<p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/maxcsonderby/PromptX/blob/main/download.png)" />
-</p>
 
 Thanks for checking out Prompt eXchange, the open-source repository for the most effective LLM and text-to-image prompts to help people get the most value out of generative AI models. 
 
