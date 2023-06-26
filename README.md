@@ -5,7 +5,7 @@
 
 Thanks for checking out Prompt eXchange, the open-source repository for the most effective LLM and text-to-image prompts to help people get the most value out of generative AI models. 
 
-This is a basic introduction to the repository, more information can be found on the  [wiki](https://github.com/promptx/wiki).
+This is a basic introduction to the repository, more information can be found on the  [wiki](https://github.com/maxcsonderby/PromptX/wiki).
 
 ## About PromptX
 
@@ -27,7 +27,7 @@ Additionally, we appreciate feedback and suggestions for improving the repositor
 
 ## Getting Started
 
-To get started with PromptX, head over to the [wiki](https://github.com/promptx/wiki) for more detailed information on how to navigate the repository, contribute, and make the most of the available prompts. Explore the categories, find prompts that inspire you, and let your creativity and productivity unfold with the help of these powerful tools.
+To get started with PromptX, head over to the [wiki](https://github.com/maxcsonderby/PromptX/wiki) for more detailed information on how to navigate the repository, contribute, and make the most of the available prompts. Explore the categories, find prompts that inspire you, and let your creativity and productivity unfold with the help of these powerful tools.
 
 Thank you for being a part of the PromptX community. We hope you find this repository valuable and that it enhances your experiences with generative AI models. Happy prompting!
 
