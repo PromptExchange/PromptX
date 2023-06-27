@@ -1,0 +1,2 @@
+# Ideal Customer Profile
+`"I’m selling a service that solves [problem], all of the text on my homepage is below [product description]. I am looking to figure out which titles would be the best to target at my ICP and what exact moment or inflection point the company might be at where they would need me most (focused). Give me 10 complex ideas that solve for the timing on when to reach out, which customers I should target, and why you think this moment and title is a perfect person to reach out to (creative)."`
