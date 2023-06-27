@@ -3,8 +3,11 @@ Generates questions and answers about content in the youtube video, great for qu
 
 LeMUR Feature: Q&A 
 
-`Question: What are [number] questions [age group] should be asked to quiz their retention of the topics covered in this transcript?`
+Question:
 
-`Context (optional):`
+`What are [number] questions [age group] should be asked to quiz their retention of the topics covered in this transcript?`
 
-`Answer format (optional): List of questions and answers`
+Context (optional): leave blank
+
+Answer format (optional):
+`List of questions and answers`
