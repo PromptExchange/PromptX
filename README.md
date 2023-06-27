@@ -1,6 +1,6 @@
-# Welcome to PromptX! 
+# Welcome to Prompt eXchange! 
 
-Thanks for checking out Prompt eXchange, the open-source repository for the most effective LLM and text-to-image prompts to help everyone get the most value out of generative AI models. 
+Thanks for checking out PromptX, the open-source repository for the most effective LLM and text-to-image prompts to help everyone get the most value out of generative AI models. 
 
 ![Logo](https://github.com/maxcsonderby/PromptX/blob/main/PromptX%20Logo.jpeg)
 
