@@ -13,6 +13,8 @@ This is a basic introduction to the repository, more information can be found on
 
 The PromptX repository is organized into different categories and subcategories, covering a wide range of topics and use cases. Each prompt is carefully crafted and documented to ensure its effectiveness. You can browse the repository and explore the prompts that interest you, or you can search for specific keywords to find prompts related to a particular topic.
 
+Navigate to [ChatGPT](https://github.com/maxcsonderby/PromptX/tree/main/ChatGPT) for text generation, [Text-to-image](https://github.com/maxcsonderby/PromptX/tree/main/Text-To-Image%20) for generating images, and [LeMUR](https://github.com/maxcsonderby/PromptX/tree/main/LeMUR) for running YouTube and audio transcripts through Generative AI models.
+
 To use a prompt, simply copy it and paste it into the input of your desired model. Experiment with different prompts, modify them, or combine them to achieve the desired results. Feel free to contribute your own prompts to the repository, share your experiences, and collaborate with the community to improve and expand the collection.
 
 
