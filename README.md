@@ -26,6 +26,14 @@ Whether you are a researcher, developer, artist, or simply an enthusiast explori
 
 PromptX is an open-source project, and we welcome contributions from the blossoming AI community. If you have a prompt that you find particularly effective or have discovered a novel approach, we encourage you to share it with us. You can contribute to the repository by submitting a pull request, adding your prompt to the relevant category, and providing clear documentation to guide others in using it.
 
+To submit a prompt, create a .md file. Put your title after a  `>` and then the prompt in backticks ` ` for each line, like this.
+
+`> Title `
+
+`[Prompt]`
+
+If there are any variables in your prompt, place them in brackets like `[variable]`.
+
 Additionally, we appreciate feedback and suggestions for improving the repository. If you have any ideas for new categories, subcategories, or features that would enhance the usability of PromptX, please don't hesitate to reach out. Together, we can build a comprehensive and valuable resource that benefits the entire AI community.
 
 ## Getting Started
